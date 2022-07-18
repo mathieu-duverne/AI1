@@ -1,25 +1,25 @@
 # project IA school 1 - La Plateforme
 
-    - Arbres de paris [ dataviz ]
+* Arbres de paris [ dataviz ]
 
-    - Amazing maze [ algorithm : backtracking, a* ]
+* Amazing maze [ algorithm : backtracking, a* ]
 
-    - Tower of hanoi [ recusive algortihm ]
+* Tower of hanoi [ recusive algortihm ]
 
-    - Une vie de fourmis [ Theorie des graphes ]
+* Une vie de fourmis [ Theorie des graphes ]
 
-    - Miel et abeilles [ Algortihm genetic ]
+* Miel et abeilles [ Algortihm genetic ]
 
-    - California housing price prediction [ ML : regression ]
+* California housing price prediction [ ML : regression ]
 
-    - ML app california house [ DASH framework python ]
+* ML app california house [ DASH framework python ]
 
-    - Risque sur le default de crédit [ ML : Prédiction ]
+* Risque sur le default de crédit [ ML : Prédiction ]
 
-    - Theorie of decision tree [ ML ]
+* Theorie of decision tree [ ML ]
 
-    - Forecasting [ ML : prediction ]
+* Forecasting [ ML : prediction ]
 
-    - SQL
+* SQL
     
-    - Image classification [  ]
+* Image classification [  ]
